@@ -5,3 +5,4 @@
 #Added chapter 3 - Variables
 #Added chapter 4 - methods
 #Added chapter 5 - Flow control
+#Added chapter 6 - Loops
